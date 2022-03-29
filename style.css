@@ -20,6 +20,11 @@ html {
   overflow-y: hidden;
 }
 
+.icons {
+  width: 32px;
+  font-size: 32px;
+}
+
 .header {
   display: flex;
   color: #e9eaee;
@@ -44,11 +49,24 @@ html {
 
 a {
   font-size: 4rem;
-  color: #e9eaee;
+  color: #b8bed6;
   text-decoration: none;
 }
 
 /* Devider */
+
+.footer {
+  background-color: #202125;
+}
+
+.upper-footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.lower-footer {
+  text-align: center;
+}
 
 /* for mobile */
 @media screen and (max-width: 1440px) {

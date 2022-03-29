@@ -1,0 +1,30 @@
+
+
+
+      <footer class="footer">
+        <nav class="upper-footer">
+          <ul class="upper-left-footer">
+            <li><a href="" class="NavLink">FAQ </a></li>
+            <li><a href="" class="NavLink">Help </a></li>
+            <li><a href="" class="NavLink">Feedback </a></li>
+            <li><a href="" class="NavLink">Orders and Returns </a></li>
+          </ul>
+          <ul class="upper-right-footer">
+            <li><a href="" class="NavLink">About Us </a></li>
+            <li><a href="" class="NavLink">Contact Us </a></li>
+            <li><a href="" class="NavLink">Support Us </a></li>
+          </ul>
+        </nav>
+        <br />
+        Follow Us on
+        <br />
+        <nav class="lower-footer">
+          <img src="" alt="Fb" class="icons" />
+          <img src="" alt="Tw" class="icons" />
+          <img src="" alt="Ig" class="icons" />
+          <img src="" alt="LI" class="icons" />
+        </nav>
+        <br />
+        All Rights are Reserved by Diamond Talkfilm
+      </footer>
+
