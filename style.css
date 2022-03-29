@@ -27,8 +27,8 @@ html {
 
 .header {
   display: flex;
-  color: #e9eaee;
-  background-color: #202125;
+  color: #182352;
+  background-color: #c7cbda;
 }
 
 .logo-brand {
@@ -49,14 +49,14 @@ html {
 
 a {
   font-size: 4rem;
-  color: #b8bed6;
+  color: #182352;
   text-decoration: none;
 }
 
 /* Devider */
 
 .footer {
-  background-color: #202125;
+  background-color: #c7cbda;
 }
 
 .upper-footer {
