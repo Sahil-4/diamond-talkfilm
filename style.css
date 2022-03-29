@@ -48,8 +48,10 @@ a {
   text-decoration: none;
 }
 
+/* Devider */
+
 /* for mobile */
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1440px) {
   html {
     font-size: 10px;
   }
@@ -79,11 +81,7 @@ a {
     height: 0;
     text-align: center;
     display: block;
-    transition: height 2s;
-  }
-
-  .nav-bar-active {
-    height: auto;
+    transition-duration: 1s;
   }
 
   a {
